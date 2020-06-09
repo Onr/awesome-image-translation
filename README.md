@@ -459,7 +459,7 @@ arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10520)] [[GitHub](http://t
 
 **Council-GAN: Breaking the cycle - Colleagues are all you need.**<br>
 *Ori Nizan, Ayellet Tal.*<br>
-arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10538)]
+arxiv, 24 Nov 2019. [[PDF](https://arxiv.org/abs/1911.10538)] [[Github](https://github.com/Onr/Council-GAN)]
 
 **injectionGAN: Toward Learning a Unified Many-to-Many Mapping for Diverse Image Translation.**<br>
 *Wenju Xu, Shawn Keshmiri, Guanghui Wang.*<br>
